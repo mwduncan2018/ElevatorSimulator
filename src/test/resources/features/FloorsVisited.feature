@@ -30,6 +30,6 @@ Feature: Floors Visited Provided In Order
 	
 	Examples:
 	| start	| first	| floorsVisitedInOrder |
-	| 12	| 2		| 12,2                 |
+	| 12	| 2     | 12,2                 |
 	| 1     | 2     | 1,2                  |
 	| 5     | 10    | 5,10                 |
