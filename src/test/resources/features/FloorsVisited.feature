@@ -10,7 +10,7 @@ Feature: Floors Visited Provided In Order
 	
 	Examples:
 	| start	| first	| second | third | fourth | floorsVisitedInOrder |
-	| 12	| 2		| 9		 | 1     | 32     | 12,2,9,1,32          |
+	| 12    | 2     | 9      | 1     | 32     | 12,2,9,1,32          |
 	| 1     | 2     | 3      | 4     | 5      | 1,2,3,4,5            |
 	| 5     | 10    | 15     | 20    | 25     | 5,10,15,20,25        |
 

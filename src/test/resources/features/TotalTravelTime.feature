@@ -10,7 +10,7 @@ Feature: Total Travel Time
 	
 	Examples:
 	| start	| first	| second | third | fourth | travelTime |
-	| 12	| 2		| 9		 | 1     | 32     | 560        |
+	| 12    | 2     | 9      | 1     | 32     | 560        |
 	| 1     | 2     | 3      | 4     | 5      | 40         |
 	| 5     | 10    | 15     | 20    | 25     | 200        |
 
